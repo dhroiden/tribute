@@ -5,4 +5,47 @@
     font-weight: 300;
     text-align: center;
     box-sizing: border-box;
+    padding: 5px;
+}
+
+#title {
+    font-size: 2em;
+    font-weight: bolder;
+    padding-top: 5px;
+}
+
+#image {
+    width: 100%;
+    max-width: 500px;
+    height: auto;
+}
+
+#img-div {
+    background: rgb(255, 255, 255);
+    padding: 15px;
+}
+
+figcaption {
+    padding: 5px;
+}
+
+ul {
+    display: inline-block;
+    text-align: left;
+}
+
+li {
+    margin: 20px;
+}
+
+h4 {
+    margin-top: 50px;
+}
+
+h2 {
+    margin-top: 50px;
+}
+
+main {
+     border-radius: 5px;
 }
